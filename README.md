@@ -1,6 +1,6 @@
 # Clone de Tela de Login do Instagram
 
-Veja o projeto em funcionamento: [Clone de Tela de Login do Instagram na Vercel](https://tradutor-interativo.vercel.app/)
+Veja o projeto em funcionamento: [Clone de Tela de Login do Instagram na Vercel](https://clone-login-instagram-fabricio-santuchis-projects.vercel.app/)
 
 Este projeto é uma recriação da tela de login do Instagram, desenvolvido com React e estilizado com Tailwind CSS. O objetivo foi reproduzir a interface e a experiência de login, aplicando boas práticas de desenvolvimento e estrutura de componentes reutilizáveis.
 
@@ -34,13 +34,13 @@ Para melhor ilustrar o funcionamento do projeto, aqui estão algumas imagens pr�
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Fabricio-santuchi/clone-login-instagram.git
+   git clone https://github.com/Fabricio-santuchi/Clone-Login-Instagram.git
    ```
 
 2. Acesse o diretório do projeto:
 
    ```bash
-   cd clone-login-instagram
+   cd Clone-Login-Instagram
    ```
 
 3. Instale as dependências:
