@@ -12,7 +12,13 @@ const LoginForm = () => {
 
   function FormSubmit(e) {
     e.preventDefault();
-    console.log(`user: ${username}, pass: ${password}`);
+    setUsername("");
+    setPassword("");
+    if (!username || !password) {
+      alert("Pfv Preencha os campos.");
+      return;
+    }
+    alert("Login feito com sucesso...");
   }
 
   return (
