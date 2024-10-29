@@ -1,6 +1,6 @@
 # Clone de Tela de Login do Instagram
 
-Veja o projeto em funcionamento: [Clone de Tela de Login do Instagram na Vercel](https://clone-login-instagram-fabricio-santuchis-projects.vercel.app/)
+Veja o projeto em funcionamento: [Clone de Tela de Login do Instagram na Vercel](https://clone-login-instagram-eight.vercel.app/)
 
 Este projeto é uma recriação da tela de login do Instagram, desenvolvido com React e estilizado com Tailwind CSS. O objetivo foi reproduzir a interface e a experiência de login, aplicando boas práticas de desenvolvimento e estrutura de componentes reutilizáveis.
 
